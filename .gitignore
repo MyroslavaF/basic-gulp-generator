@@ -1,5 +1,5 @@
 /node_modules
 /dist
-/src
 package-lock.json
-second/pug
+second.pug
+README.md
