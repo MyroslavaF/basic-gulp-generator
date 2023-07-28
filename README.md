@@ -29,8 +29,8 @@ HTML, PUG, CSS, SCSS, SASS, LESS, JavaScript, TypeScript
 
 Estructura del catálogo para los estilos, scripts y imagenes:
 
-src/src/styles/  
-src/scripts/
+src/styles/  
+src/scripts/  
 src/img/
 
 Extensión
